@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rulerApp-public/static/css/main.7aea1eca.css",
-    "main.js": "/rulerApp-public/static/js/main.855cf6d8.js",
+    "main.css": "/rulerApp-public/static/css/main.cfc1efb5.css",
+    "main.js": "/rulerApp-public/static/js/main.1a9f9ef5.js",
     "index.html": "/rulerApp-public/index.html",
-    "main.7aea1eca.css.map": "/rulerApp-public/static/css/main.7aea1eca.css.map",
-    "main.855cf6d8.js.map": "/rulerApp-public/static/js/main.855cf6d8.js.map"
+    "main.cfc1efb5.css.map": "/rulerApp-public/static/css/main.cfc1efb5.css.map",
+    "main.1a9f9ef5.js.map": "/rulerApp-public/static/js/main.1a9f9ef5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aea1eca.css",
-    "static/js/main.855cf6d8.js"
+    "static/css/main.cfc1efb5.css",
+    "static/js/main.1a9f9ef5.js"
   ]
 }
